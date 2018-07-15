@@ -2,4 +2,4 @@
 
 let currentUser = 'Anusha';
 let welcomeMessage = 'Welcome to Flatbook,';
-welcomeMessage
+welcomeMessage = welcomeMessage + currentUser + '!';
